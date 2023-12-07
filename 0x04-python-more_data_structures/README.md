@@ -2,10 +2,10 @@
 
 ## Read or watch:
 
-[The Python Language Reference](https://docs.python.org/3/reference/index.html)
-[Data structures](https://docs.python.org/3/tutorial/datastructures.html#sets)
-[Lambda, filter, reduce and map](https://python-course.eu/advanced-python/lambda-filter-reduce-map.php)
-[Learn to Program 12 Lambda Map Filter Reduce](https://www.youtube.com/watch?v=1GAC6KQUPeg)
+* [The Python Language Reference](https://docs.python.org/3/reference/index.html)
+* [Data structures](https://docs.python.org/3/tutorial/datastructures.html#sets)
+* [Lambda, filter, reduce and map](https://python-course.eu/advanced-python/lambda-filter-reduce-map.php)
+* [Learn to Program 12 Lambda Map Filter Reduce](https://www.youtube.com/watch?v=1GAC6KQUPeg)
 
 ## Description
 What you should learn from this project:
